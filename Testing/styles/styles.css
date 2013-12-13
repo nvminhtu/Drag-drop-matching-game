@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#page{
+	display: block;
+	width: 800px;
+	/*height: 1000px;*/
+	margin: 0 auto;
+}
+#instr{
+	width: 800px;
+	height: 600px;
+	background: url('../images/other/instructions.gif') no-repeat;
+}
+#dragDrop{
+	width: 800px;
+	/*height: 600px;*/
+}
+#match_1
+{
+	/*width: 150px;
+	height: 596px;*/
+	float: left;
+}
+#match_1 div, #match_2 div
+{
+	width: 150px;
+	height: 149px;
+	margin-top: 1px;
+	background-color: black;
+}
+#choices
+{
+	/*width: 498px;
+	height: 600px;*/
+	float: left;
+	margin-left: 1px;
+}
+#choices div{
+	width: 498px;
+	height: 38px;
+	margin-top: 2px;
+	margin-right: 1px;
+	background-color: skyblue;
+}
+#match_2
+{
+	/*width: 150px;
+	height: 596px;*/
+	float: right;
+}
+#tryAgain{
+	width: 800px;
+	height: 600px;
+}
+#retry{
+`	position: absolute;
+	left: 150px;
+	top: 164px;
+	width: 500px;
+	height: 272px;
+	background: url("../images/other/dialogBox.gif") no-repeat;
+}
+#retry button{
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 283px;
+	height: 47px;
+	background: url("../images/other/buttonOk_1.gif") no-repeat;
+	margin-left: 108.5px;
+	margin-top: 160px;
+}

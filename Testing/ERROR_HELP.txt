@@ -1,0 +1,10 @@
+-----------------------HELP-------------------------
+Make sure you delete history of your browser everytime you make any changes in the files
+Error 101: shows up only if you have records like one of these in your 'imageDetails.txt'
+				
+				null:null,null; OR fileName:null,null;
+Set the variable 'testing' to 'false' when done testing
+	
+				var testing = false;
+				
+CHEERS!!

@@ -91,7 +91,7 @@ It will run with any jQuery version. (NOT TESTED)
 -----------------------------------------------imageDetails.txt--------------------------------------------------------------
 
 1) TO ADD NEW IMAGES (match and choices images) PLEASE PUT THE NAME OF THE FILES IN imageDetails.txt WITHOUT EXTENSION CURRENT EXTENSION IS (.gif)
-   Extensions and other details are provided in the maing engine file (dragProgram_1.js).
+   Extensions and other details are provided in engine file (dragProgram_1.js).
 
 	SYNTAX: 	matchingImageName:firstChoiceImage,SecondChoiceImage;
 				matchingImageName1:firstChoiceImage,SecondChoiceImage;
